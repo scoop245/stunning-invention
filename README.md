@@ -1,1 +1,1 @@
-new prog2
+Project info
