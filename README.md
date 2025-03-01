@@ -1,1 +1,1 @@
-new prog
+new prog2
